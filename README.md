@@ -48,7 +48,7 @@
 
 | Project | Description | Stack |
 |----------|--------------|-------|
-| [**Nomo Flow**](https://github.com/Nasser-Alsuduni0/Nomo-Flow) | Marketing automation SaaS for Salla merchants (live counters, coupons, and real-time notifications) | React, FastAPI, PostgreSQL |
+| [**Nomo Flow**](https://github.com/Nasser-Alsuduni0/Nomo-Flow) | Marketing automation SaaS for Salla merchants (live counters, coupons, and real-time notifications) | Django, FastAPI, PostgreSQL |
 | [**HalaOrder**](https://github.com/Nasser-Alsuduni0/HallaOrder) | Multi-tenant restaurant ordering & management platform (Tuwaiq Academy graduation project) | Django, Stripe, Bootstrap |
 | [**Jwaker Games Hub**](https://jwaker1.com) | Arabic mini-games platform (50+ instant games, SEO optimized, AdSense ready) | React 18, Vite, Tailwind, PWA |
 
