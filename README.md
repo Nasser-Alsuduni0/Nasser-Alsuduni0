@@ -20,7 +20,6 @@
 - 🎓 Computer Science graduate
 - ⚙️ Day-to-day stack: **ASP.NET Core, Angular, SQL Server, Entity Framework Core**
 - 🐍 Side projects in **Python, Django, FastAPI, React, TypeScript**
-- 🤖 Certified in Machine Learning (Stanford Online) — interested in applied ML
 - 🌍 Based in **Riyadh, Saudi Arabia** 
 
 ---
