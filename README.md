@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/Nasser-Alsuduni0" width="130" style="border-radius:50%" alt="Nasser Alsuduni">
 
-  <h1>Hey, I'm Nasser 👋</h1>
+  <h1>Hey, I'm Nasser</h1>
 
   <h3>Full-Stack Developer · Computer Science Graduate</h3>
 
@@ -15,16 +15,16 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🎓 Computer Science graduate
-- ⚙️ Day-to-day stack: **ASP.NET Core, Angular, SQL Server, Entity Framework Core**
-- 🐍 Side projects in **Python, Django, FastAPI, React, TypeScript**
-- 🌍 Based in **Riyadh, Saudi Arabia** 
+- Computer Science graduate
+- Day-to-day stack: **ASP.NET Core, Angular, SQL Server, Entity Framework Core**
+- Side projects in **Python, Django, FastAPI, React, TypeScript**
+- Based in **Riyadh, Saudi Arabia**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -62,20 +62,21 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**SPLM**](https://github.com/Nasser-Alsuduni0/SPLM_Frontend) ([API](https://github.com/Nasser-Alsuduni0/SPLM_Backend)) | Enterprise platform for project, feature, and release-lifecycle management — Clean Architecture API with real-time notifications and background job processing | Angular · ASP.NET Core · EF Core · SignalR · RabbitMQ |
 | [**Nomo Flow**](https://github.com/Nasser-Alsuduni0/Nomo-Flow) | Marketing automation SaaS for Salla merchants — live viewer counters, smart discounts, real-time notifications | Django · FastAPI · PostgreSQL |
 | [**Jawaker Games Hub**](https://jwaker1.com) | Arabic mini-games platform with 50+ games, RTL support, PWA, SEO, and AdSense monetization | React · TypeScript · Vite · Tailwind |
 | [**HalaOrder**](https://github.com/Nasser-Alsuduni0/HallaOrder) | Multi-tenant restaurant ordering & management platform (Tuwaiq Academy graduation project) | Django · Stripe · Bootstrap |
 
 ---
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/nasser-alsuduni-7505b5240"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="mailto:Nasser.alsuduni@outlook.sa"><img src="https://img.shields.io/badge/-Email-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge"></a>
 </p>
 
-<p align="center"><i>⭐ Thanks for stopping by — let's build something great together.</i></p>
+<p align="center"><i>Thanks for stopping by — let's build something great together.</i></p>
