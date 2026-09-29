@@ -1,82 +1,49 @@
-<!-- Profile Header -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/Nasser-Alsuduni0" width="130" style="border-radius:50%" alt="Nasser Alsuduni">
-
-  <h1>Hey, I'm Nasser</h1>
-
-  <h3>Full-Stack Developer · Computer Science Graduate</h3>
-
-  <p>Building reliable web platforms with <b>.NET, Angular, Python, and React</b>.<br>
-
-  <a href="https://github.com/Nasser-Alsuduni0"><img src="https://img.shields.io/github/followers/Nasser-Alsuduni0?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/nasser-alsuduni-7505b5240/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:Nasser.alsuduni@outlook.sa"><img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white"></a>
-</div>
-
----
-
-### About Me
-
-- Computer Science graduate
-- Day-to-day stack: **ASP.NET Core, Angular, SQL Server, Entity Framework Core**
-- Side projects in **Python, Django, FastAPI, React, TypeScript**
-- Based in **Riyadh, Saudi Arabia**
-
----
-
-### Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-**Backend**
-
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-EF%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-**Frontend**
-
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-**Databases & Tools**
-
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-
-</div>
-
----
-
-### Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**SPLM**](https://github.com/Nasser-Alsuduni0/SPLM_Frontend) ([API](https://github.com/Nasser-Alsuduni0/SPLM_Backend)) | Enterprise platform for project, feature, and release-lifecycle management — Clean Architecture API with real-time notifications and background job processing | Angular · ASP.NET Core · EF Core · SignalR · RabbitMQ |
-| [**Nomo Flow**](https://github.com/Nasser-Alsuduni0/Nomo-Flow) | Marketing automation SaaS for Salla merchants — live viewer counters, smart discounts, real-time notifications | Django · FastAPI · PostgreSQL |
-| [**Jawaker Games Hub**](https://jwaker1.com) | Arabic mini-games platform with 50+ games, RTL support, PWA, SEO, and AdSense monetization | React · TypeScript · Vite · Tailwind |
-| [**HalaOrder**](https://github.com/Nasser-Alsuduni0/HallaOrder) | Multi-tenant restaurant ordering & management platform (Tuwaiq Academy graduation project) | Django · Stripe · Bootstrap |
-
----
-### Let's Connect
+<a href="https://nasser-alsuduni.site/">
+  <img src="assets/profile-header.svg" width="100%" alt="Nasser Alsuduni — Software Engineer based in Riyadh, Saudi Arabia">
+</a>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nasser-alsuduni-7505b5240"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
-  <a href="mailto:Nasser.alsuduni@outlook.sa"><img src="https://img.shields.io/badge/-Email-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge"></a>
+  <b>ASP.NET Core · Angular · Python · Django · React</b>
 </p>
 
-<p align="center"><i>Thanks for stopping by — let's build something great together.</i></p>
+<p align="center">
+  <a href="https://nasser-alsuduni.site/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/nasser-alsuduni-7505b5240/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:Nasser.alsuduni@outlook.sa">Email</a>
+</p>
+
+## A little about me
+
+I'm Nasser, a **Computer Science graduate** and a software engineer based in **Riyadh, Saudi Arabia**. I trained at **Elm** and **Tuwaiq Academy**, building full-stack applications and contributing to enterprise software.
+
+I enjoy working on both sides of an application: the interface people use and the system behind it. My projects span developer tools, bilingual browser extensions, adaptive learning, and e-commerce, with a focus on maintainable architecture and reliable APIs.
+
+## Selected work
+
+| Project | What I built |
+| :--- | :--- |
+| **[SPLM](https://github.com/Nasser-Alsuduni0/SPLM_Backend)**<br>[Frontend](https://github.com/Nasser-Alsuduni0/SPLM_Frontend) · [API](https://github.com/Nasser-Alsuduni0/SPLM_Backend) | Project and release lifecycle management with configurable workflows, real-time notifications, and background jobs.<br>**Angular · ASP.NET Core · EF Core · SignalR · RabbitMQ** |
+| **[Imlaha / املأها](https://nasser-alsuduni.site/projects/imlaha)**<br>[Chrome Web Store](https://chromewebstore.google.com/detail/imlaha-%D8%A7%D9%85%D9%84%D8%A3%D9%87%D8%A7/ofbngmknmapfdhagmgpondmdfagkfopg) | A bilingual form-filling extension with Arabic / English support, on-device encryption, and field-by-field control.<br>**TypeScript · React · WXT · Web Crypto** |
+| **[Imtiaz / امتياز](https://imtiaz.digital/)**<br>[Project overview](https://nasser-alsuduni.site/projects/imtiaz) | Adaptive Saudi GAT preparation with diagnostic assessments, personalized study plans, and spaced repetition.<br>**Angular · ASP.NET Core · Clean Architecture · CQRS** |
+| **[Nomo Flow](https://github.com/Nasser-Alsuduni0/Nomo-Flow)** | A marketing toolkit for Salla merchants with live visitor counters, discount coupons, and purchase notifications.<br>**Python · Django · FastAPI · PostgreSQL · Salla API** |
+| **[HalaOrder](https://github.com/Nasser-Alsuduni0/HallaOrder)** | A team graduation project at Tuwaiq Academy: multi-tenant restaurant ordering, menus, payments, and role-based dashboards.<br>**Python · Django · PostgreSQL · Multi-tenancy** |
+| **[Stocker / Inventory Plus](https://github.com/Nasser-Alsuduni0/Stocker)** | An inventory management system with product and supplier tracking, low-stock and expiry alerts, and CSV import/export.<br>**Python · Django · Inventory Management · Email Alerts** |
+
+More on my portfolio: [Jawaker Games Hub](https://nasser-alsuduni.site/projects/jawaker) and [Ebda’at Al-Sharq](https://nasser-alsuduni.site/projects/ebdaat-alsharq).
+
+## My toolbox
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | C# · Python · TypeScript · JavaScript |
+| **Interfaces** | Angular · React · PrimeNG · Tailwind CSS · SCSS |
+| **Backend & data** | ASP.NET Core · Django · FastAPI · EF Core · SQL Server · PostgreSQL |
+| **Architecture & messaging** | Clean Architecture · CQRS · REST APIs · JWT / RBAC · SignalR · RabbitMQ · Hangfire |
+| **Testing & delivery** | pytest · Unit & integration testing · Docker · GitHub Actions · Git · Postman · Railway · Jira |
+
+---
+
+<p align="center">
+  Have a project in mind? <a href="mailto:Nasser.alsuduni@outlook.sa">Let's talk</a>.<br>
+  <a href="https://nasser-alsuduni.site/">Explore my portfolio</a> · <a href="https://www.linkedin.com/in/nasser-alsuduni-7505b5240/">Connect on LinkedIn</a>
+</p>
